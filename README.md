@@ -6,7 +6,7 @@ This document is intended to be a set of guidelines which should help you improv
 
 Before you begin it is a good idea to consider the size of the audience you will be speaking to. A presentation aimed at a room of 20 people will seem awkward in a room of 500, but a presentation aimed at 500 people in a room of 20 will seem impersonal. 
 
-### Small Audience (up to 60 people)
+### Small Audience (up to 50 people)
 
 * A presentation to a small audience should be somewhat casual. A good trick is to start by asking the audience some questions (Who here has used x? How many people are beginners? Experts?).
 * You should be ready for people to ask questions or interject during your talk. 
@@ -14,7 +14,7 @@ Before you begin it is a good idea to consider the size of the audience you will
 * If people look confused don't hesitate to return to a previous slide or ask what parts need more explaining.
 * Avoid over rehearsing your presentation. Have key points that you can discuss if necessary.
 
-### Large Audience (over 60 people)
+### Large Audience
 
 * A casual presentation can work with a large audience but you have to be knowledgeable and confident. Because you won't have many slides to fall back on, your energy will be what makes the talk shine.
 * Avoid live examples unless they are brief and simple or very well rehearsed. An alternative is to take pictures/screenshot the examples you wanted to show and insert them into your presentation.
