@@ -33,13 +33,13 @@ Before you begin it is a good idea to consider the size of the audience you will
 * Using images and gifs is a great way to lighten up serious topics. Overusing gifs looks a little tacky though. Aim for at most one every two slides.
 * Don't read directly from your slides unless it's for effect. Use them to let the audience (and yourself) know what you're about to speak about. 
 * For larger presentations, dwelling on one slide for a long period of time often causes people to lose interest. 
-* Don't use a piece of paper for reference as if you are nervous and your hands are shaking then the paper will rustle.
+* Don't use a piece of paper for reference as if you are nervous and your hands are shaking it will be a lot more obvious.
 * Make your slides available to the audience.
 
 ## Speaking
 
 * If you don't have a microphone, pick a group nearer to the back of the room and pretend you're speaking to them directly.
-* To prevent your voice shaking take deep breaths or stop and take a glass of water.
+* To prevent your voice shaking take deep breaths or stop and take a sip of water.
 * Face the audience.
 * Keep your hands out of your pockets. If you don't know what to do with your hands then gesture to your slides. If that still feels awkward then hold a drink.
 * Smile, keep a good posture, be confident. 
@@ -47,10 +47,10 @@ Before you begin it is a good idea to consider the size of the audience you will
 
 ## Length
 
-* Ask the organisers how long you have to speak and aim for 80% of that. Finishing early is must less stressful than going over time.
+* Ask the organisers how long you have to speak and aim for 80% of that. Finishing early is much less stressful than going over time.
 
 ## Interruptions
 
 * Keep an eye out while your speaking for raised hands. Most of the time they'll point something useful out like a microphone not working
 * If you're being interrupted too frequently then defer questions until after your presentation
-* For smaller audiences (and sometimes large ones) there is usually one or two didactic people who are going to ask questions soley intended to stump you. If you know the answer that's great but don't be afriad to just say 'no idea' and move on. Another technique is to volunteer them to do a lightning talk at the end of the session.
+* For smaller audiences (and sometimes large ones) there are usually one or two didactic people who are going to ask questions soley intended to stump you. If you know the answer that's great but don't be afriad to just say 'no idea' and move on. Another technique is to volunteer them to do a lightning talk at the end of the session.
