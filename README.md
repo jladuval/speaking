@@ -27,6 +27,7 @@ Before you begin it is a good idea to consider the size of the audience you will
 * Focus on just one topic. Several small topics are better suited for lightning talks.
 * If you're doing an advanced talk, introduce the basics first since there will always be beginners in the audience.
 * Google your topic beforehand, even if you know it very well.
+* If you're not somewhat passionate about the topic you're presenting then choose another topic.
 
 ## Slides
 
